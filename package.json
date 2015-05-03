@@ -1,0 +1,16 @@
+{
+  "name": "kangaroo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.4.5",
+    "body-parser": "~1.5.0",
+    "mongoose": "^4.0.2",
+    "mysql": "^2.6.2",
+    "sequelize": "~2.1.0",
+    "morgan": "^1.1.1",
+    "passport": "^0.2.0",
+    "passport-linkedin-oauth2": "latest"
+  }
+}
